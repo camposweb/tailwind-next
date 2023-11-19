@@ -1,6 +1,6 @@
 'use client'
 
-import { Trash, Trash2, UploadCloud } from 'lucide-react'
+import { Trash2, UploadCloud } from 'lucide-react'
 import { useFileInput } from './Root'
 import { formatBytes } from '@/utils/format-bytes'
 
