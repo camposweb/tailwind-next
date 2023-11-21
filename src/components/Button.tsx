@@ -10,10 +10,12 @@ const button = tv({
 
   variants: {
     variant: {
-      primary: 'bg-violet-600 text-white hover:bg-violet-700',
+      primary:
+        'bg-violet-600 text-white hover:bg-violet-700 dark:bg-violet-500 dark:hover:bg-violet-600',
       ghost:
-        '<dark:texzic4></dark:texzic4> ml-auto rounded-md px-2 text-zinc-500 shadow-none hover:bg-zinc-50 dark:text-zinc-400 dark:hover:bg-zinc-800',
-      ouline: 'border border-zinc-300 text-zinc-700 hover:bg-zinc-50',
+        '<dark:texzic4></dark:texzic4> ml-auto rounded-md px-2 text-zinc-500 shadow-none hover:bg-zinc-50 dark:text-zinc-400 dark:hover:bg-white/5',
+      ouline:
+        'border border-zinc-300 text-zinc-700 hover:bg-zinc-50 dark:border-zinc-700 dark:text-zinc-400 dark:hover:bg-zinc-800',
     },
   },
 })
