@@ -1,0 +1,3 @@
+# Fundamentos do TailwindCSS
+
+Neste projeto prático aprendi os fundamentos do TailwindCSS da configuração até transformar a aplicação com tema dark, obtive conhecimento de responsividade utilizando a ferramenta que seu princípio é mobile first, além disso foi desenvolvido vários componentes através do biblioteca tailwind-variants tornando os componentes além de reutilizáveis, muito mais personalizáveis também. Utilizamos também o tailwind-merge que tem a função de juntar as classes. Foi utilizado outras bibliotecas para animação e o radiz-ui para componentes primitivos. Foi utilizado o Untitled UI como design system.
